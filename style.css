@@ -3,7 +3,7 @@
     background-color: #614caf;
     padding: 30px;
     text-align: center;
-    color: white;
+    color: rgb(196, 219, 198);
 }
 
 /* Estilos para la barra de navegación */
@@ -23,7 +23,7 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #f4f4f4;
+    background-color: #f4f4f40e;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
